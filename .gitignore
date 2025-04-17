@@ -50,3 +50,6 @@ sdk/tests/test_sdk_locally/config.toml
 sdk/agenta/client/fern
 sdk/agenta/templates/main.py
 sdk/agenta/templates/agenta.py
+
+# Private individual user cursor rules
+.cursor/rules/_*.mdc
